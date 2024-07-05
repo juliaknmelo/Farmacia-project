@@ -11,7 +11,7 @@ function Navbar() {
     <>
      <div className='w-full bg-red-500 text-white flex justify-center py-4'>
           <div className="container flex justify-between text-lg">
-          <Link to='/home' className='text-2xl font-bold uppercase'>Farmácia da Julis</Link>
+          <Link to='/home' className='text-2xl font-bold uppercase'>Farmácia da Julia</Link>
 
             <div className='flex gap-4'>
             <Link to='/home' className='hover:underline'>Home</Link>
